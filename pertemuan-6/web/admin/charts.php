@@ -1,6 +1,8 @@
-<h1 class="mt-4">Charts</h1>
+<main>
+                    <div class="container-fluid px-4">
+                        <h1 class="mt-4">Charts</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                            <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
                             <li class="breadcrumb-item active">Charts</li>
                         </ol>
                         <div class="card mb-4">
@@ -40,3 +42,5 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </main>
